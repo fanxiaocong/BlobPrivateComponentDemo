@@ -1,0 +1,6 @@
+framework module BlobPrivateComponentDemo {
+  umbrella header "BlobPrivateComponentDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

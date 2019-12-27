@@ -1,0 +1,23 @@
+PODS:
+  - BlobPrivateComponentDemo (0.0.1):
+    - XCMacros (~> 1.0.4)
+  - XCMacros (1.0.4)
+
+DEPENDENCIES:
+  - BlobPrivateComponentDemo (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - XCMacros
+
+EXTERNAL SOURCES:
+  BlobPrivateComponentDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BlobPrivateComponentDemo: fa532890f9abe252f552cdb47918700ea246adf9
+  XCMacros: 5509e1b14c53119da138e1f4ce7ba1766f06ad35
+
+PODFILE CHECKSUM: 008aa8b7f2ef0ac81af0d9f996cdab7fe85a9993
+
+COCOAPODS: 1.7.5
