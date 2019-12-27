@@ -1,0 +1,2 @@
+# BlobPrivateComponentDemo
+BlobPrivateComponentDemo 私有组件制作演示 Demo
